@@ -11,6 +11,10 @@
 
 _Get started using GitHub in less than an hour._
 
+### What can I do?
+
+In this course, you can practice the fundamentals: create a branch, make a commit, open a pull request, and merge it.
+
 </header>
 
 <!--
